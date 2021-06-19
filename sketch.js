@@ -72,7 +72,7 @@ function keyPressed() {
 	 }
 
 	 if(keyCode === LEFT_ARROW){
-		fairy.y = fairy.y + 20;
+		fairy.x = fairy.x - 20;
 	}
 
 
